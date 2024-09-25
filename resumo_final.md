@@ -1,0 +1,1 @@
+Java é uma linguagem de programação versátil e popular usada para construir uma variedade de softwares, como aplicativos web, aplicativos móveis e softwares empresariais. Sua natureza multiplataforma e foco em segurança a tornaram uma escolha popular para desenvolvedores.\n

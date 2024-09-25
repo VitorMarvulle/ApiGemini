@@ -1,0 +1,3 @@
+Pergunta: o que é java
+Resposta: Java é uma linguagem de programação de propósito geral, concorrente, orientada a objetos, que foi projetada para ter o mínimo de dependências de implementação. É uma linguagem popular e amplamente usada, especialmente para desenvolvimento web, desenvolvimento de aplicativos móveis e desenvolvimento de software corporativo. \n
+***********
